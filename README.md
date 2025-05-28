@@ -53,15 +53,15 @@ Supports user authentication, private and group chats, image/video sharing, and 
 1. Clone the repository
 
 ## Setup Backend
-cd server
-npm install
+- cd server
+- npm install
 
 ## Setup Frontend
-cd ../client
-npm install
-npm start
+- cd ../client
+- npm install
+- npm start
 ##  Start the backend server
-cd ../server
-npm start
+- cd ../server
+- npm start
 ## Developed by **M.Hasnain Muawia**— feel free to reach out!
 ## hasainalvi@gamil.com
