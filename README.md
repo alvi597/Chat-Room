@@ -63,5 +63,5 @@ npm start
 ##  Start the backend server
 cd ../server
 npm start
-Developed by **M.Hasnain Muawia**— feel free to reach out!
+## Developed by **M.Hasnain Muawia**— feel free to reach out!
 ## hasainalvi@gamil.com
